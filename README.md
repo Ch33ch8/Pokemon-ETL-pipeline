@@ -1,2 +1,2 @@
 # Pokemon-ETL-pipeline
-A mulit-stage ETL pipeline project using the PokeAPI in order to extract, clean, and load data into a SQL database for easy reading.
+A mulit-stage ETL pipeline project extracting data from the PokeAPI, clean and transform with pandas, and load data into a SQLite database for easy reading.
